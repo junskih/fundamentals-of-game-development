@@ -48,3 +48,6 @@ For those interested, here's a feature list of Not Kula World, the game inspired
 - Anything else that comes to mind
 
 Seeing as most of the early levels make no sense and/or don't encourage traversal having no fruits to collect for bonus levels, I took some artistic liberties in relocating some of the collectables and other elements to aid gameplay.
+
+## Known issues and bugs
+- If the player jumps during a corner turn and collides with a cube, they may be unable to move afterwards and have to exit to the menu and reload the save. Will be fixed after peer reviews are done and the course is over.
