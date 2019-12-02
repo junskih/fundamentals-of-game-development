@@ -19,10 +19,10 @@ https://youtu.be/RN0e-_DcG8Y
 - Launch Not_Kula_World.exe
 
 Keyboard controls
-W or ↑ – move forward
-A/D or ←/→ – turn left/right
-Space – jump
-Q/E – tilt camera up/down
+- W or ↑ – move forward
+- A/D or ←/→ – turn left/right
+- Space – jump
+- Q/E – tilt camera up/down
 
 For those interested, here's a feature list of Not Kula World, the game inspired by the 1998 PS1 title Kula World.
 
