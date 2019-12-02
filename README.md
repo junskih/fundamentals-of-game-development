@@ -12,6 +12,14 @@ https://youtu.be/RN0e-_DcG8Y
 [![Not Kula World teaser](http://img.youtube.com/vi/RN0e-_DcG8Y/0.jpg)](http://www.youtube.com/watch?v=RN0e-_DcG8Y)
 
 ## Not Kula World
+
+### How to play
+- Clone or download repository
+- Navigate to Not_Kula_World/Builds/Final
+- Launch Not_Kula_World.exe
+
+More instructions available in the pdf.
+
 For those interested, here's a feature list of Not Kula World, the game inspired by the 1998 PS1 title Kula World.
 
 ### What's been done
