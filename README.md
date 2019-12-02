@@ -50,4 +50,11 @@ For those interested, here's a feature list of Not Kula World, the game inspired
 Seeing as most of the early levels make no sense and/or don't encourage traversal having no fruits to collect for bonus levels, I took some artistic liberties in relocating some of the collectables and other elements to aid gameplay.
 
 ### Known issues and bugs
-- If the player jumps during a corner turn and collides with a cube, they may be unable to move afterwards and have to exit to the menu and reload the save. Will be fixed after peer reviews are done and the course is over.
+I'll update this section even after the submission deadline (2.12.2019) in case I or someone else runs into any funky stuff in the game. These will be fixed after the peer review period is over and the course has ended (late December at the earliest).
+
+- If the player jumps during a corner turn and collides with a cube, they may be unable to move afterwards and experience some weird scaling behavior. The player must exit to the menu and reload the save.
+- If the player presses jump during the level intro, the intro starts over.
+- The player can't move forward to the center of a single isolated cube without going over its edge.
+- The sun flare can be briefly seen through game objects when the camera moves around.
+- If the player jumps forward from a single isolated cube onto another isolated cube, they can go too far, miss the cube and fall.
+- After a corner turn, the player won't be centered on the cube if they were not centered previously.
